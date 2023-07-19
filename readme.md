@@ -10,7 +10,8 @@
 2. 
 ```
     npm install react react-dom
-    npm install webpack webpack-cli webpack-dev-server babel-loader @babel/core @babel/preset-env @babel/preset-react --save-dev
+    npm install webpack webpack-cli webpack-dev-server --save-dev
+    npm install babel-loader @babel/core @babel/preset-env @babel/preset-react --save-dev
 ```
 
 ```
